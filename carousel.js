@@ -16,7 +16,7 @@ var products = [
         img: "Wildcraft bag.jpg",
         cat: "Bags",
         cost: "60-95%+Extra 50%",
-        brands: "Wildcraft Bags",    
+        brands: "Wildcraft sanchi",    
     },
     {
         img: "GAP.jpg",
